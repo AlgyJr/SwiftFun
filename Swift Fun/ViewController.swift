@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         } else {
             lblFirst.text = "Clicado \(c) vezes"
         }
-//        lblFirst.text = #"Chamo-me "Algy Mussá...""#
+        lblFirst.text = #"Chamo-me "Algy Mussá...""#
     }
     
     override func viewDidLoad() {
